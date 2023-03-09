@@ -1,0 +1,258 @@
+header {
+    /* overflow: hidden; */
+    border-radius: 3px;
+    margin-left: -9px;
+    margin-right: -9px;
+    width: -moz-available;
+    /* top: 0px; */
+    /* position: fixed; */
+    background: #32aeb1;
+    color: aliceblue;
+}
+
+header>div {
+    height: 62px;
+
+    display: flex;
+}
+
+#hbox1 img {
+    max-width: 33%;
+    max-height: 100px;
+    align-items: center;
+    margin-top: 12px;
+}
+
+#hbox2 input {
+    width: 400px;
+    margin-top: 30ppx;
+    height: 38px;
+    margin-top: 8px;
+    max-width: 100%;
+    border-radius: 6px;
+    border: none;
+}
+
+#hbox3 {
+    display: flex;
+    padding: 16px;
+}
+
+#hbox3 i {
+    padding-right: 70px;
+}
+
+header>div {
+    justify-content: space-around;
+}
+
+#page {
+    margin-top: 90px;
+}
+
+#hunderbox1 {
+    display: flex;
+    justify-content: center;
+    color: #4e4949;
+}
+
+#hunderbox1 div {
+    padding-left: 8px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+#silde {
+    margin-top: 12px;
+}
+
+#undersilder {
+    display: flex;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#undersilder>div {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 284px;
+    border-radius: 9px;
+}
+
+#undersilderbox {
+    margin-top: 1px;
+}
+
+#undersilderbox1 {
+    display: flex;
+}
+
+#prepay {
+    display: flex;
+}
+
+#premain {
+    width: 97%;
+    margin: auto;
+    display: flex;
+    margin-top: 43px;
+    justify-content: space-between;
+}
+
+#btnpre {
+    border: none;
+    padding: 1px 5px 4px 10px;
+    border-radius: 7px;
+    background-color: #06aebf;
+}
+
+#preimg {
+    margin-left: 37px;
+}
+
+#pa {
+    margin-top: 21px;
+    display: flex;
+    gap: 26px;
+}
+
+#pay>h3 {
+    margin-top: 21px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+#payimg img {
+    width: 59%;
+}
+
+#payimg {
+    display: flex;
+    align-items: center;
+}
+
+#payimg a {
+    color: black;
+    text-decoration: none;
+}
+
+.sign {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.sign:hover {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+#limitbox {
+    margin-top: 21px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#limitbox>div {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px,
+        rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+#limitbtn {
+    border: none;
+    border-radius: 13px;
+    margin-left: 9px;
+    padding: 4px 26px 4px 38px;
+    border-radius: 12px;
+    border-color: white;
+    background-color: darkcyan;
+    color: aliceblue;
+}
+#hunderbox1 a{
+    color: black;
+    text-decoration: none;
+
+}
+
+#limiboxmain {
+    margin-top: 51px;
+}
+
+
+#shopby {
+    margin-top: 51px;
+}
+
+#shopcat {
+    display: flex;
+    justify-content: space-between;
+}
+
+#shopcat>div {
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#shopca {
+    display: flex;
+    justify-content: space-around;
+
+    gap: 10px;
+    width: 100%;
+
+    margin-top: 32px;
+}
+
+#shopca img {
+    /* width: 90%; */
+    border-radius: 20px;
+    width: 278px;
+}
+
+#explan {
+    margin-right: 17px;
+    border: none;
+    padding: 7px;
+    padding-right: 7px;
+    padding-left: 7px;
+    padding-left: 18px;
+    padding-right: 18px;
+    border-radius: 7px;
+    color: white;
+    background-color: #499797;
+    box-shadow: rgba(20, 158, 173, 0.25) 0px 54px 55px, rgba(15, 190, 219, 0.12) 0px -12px 30px, rgba(20, 140, 152, 0.12) 0px 4px 6px, rgba(0, 199, 181, 0.17) 0px 12px 13px, rgba(16, 136, 155, 0.09) 0px -3px 5px;
+   }
+
+#exbox {
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    margin-top: 51px;
+    justify-content: space-between;
+}
+
+#exbox2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+#exbox3 {
+    display: flex;
+}
+
+#underex1 {
+    align-items: center;
+}
+
+#ex2box {
+    display: flex;
+    align-items: center;
+}
+
+#exh {
+    margin-right: 46px;
+}
